@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lenique Noralez</h1>
-<h3 align="center">
-  Senior Software Engineer currently based in St. Louis, MO.
-</h3>
+<h3 align="center">Senior Software Engineer currently based in St. Louis, MO.</h3>
 
-- 🌱 I’m currently learning **Unix & System Programming** - 📝 I regularly write
-articles on [lenique.dev](lenique.dev) - 💬 Ask me about **JavaScript,
-TypeScript, GoLang, Rust** - 📫 How to reach me **hello@lenique.dev** - 📄 Know
-about my experiences [lenique.dev/resume](lenique.dev/resume)
+- 🌱 I’m currently learning **Unix & System Programming**
+
+- 📝 I regularly write articles on [lenique.dev](lenique.dev)
+
+- 💬 Ask me about **JavaScript, TypeScript, GoLang, Rust**
+
+- 📫 How to reach me **hello@lenique.dev**
+
+- 📄 Know about my experiences [lenique.dev/resume](lenique.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
