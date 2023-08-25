@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lenique Noralez</h1>
 <h3 align="center">Senior Software Engineer currently based in St. Louis, MO.</h3>
 
-- 🌱 I’m currently learning **System Programming using C and Go Lang**
+- 🌱 I’m currently learning **Network Programming using C and Go Lang**
 
 - 📝 I regularly write articles on [lenique.dev](lenique.dev)
 
